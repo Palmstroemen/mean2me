@@ -8,6 +8,8 @@ Two questions will be answered by this app:
 
 This is the repository for developing the code for this app (or a webbased app) using the bigNumbers dataset, that's developed in another repository. (see: https://github.com/Palmstroemen/bigNumbers )
 
+Watch the designdocument to get an idea of this app: https://docs.google.com/document/d/13ZcO94AQmjZOhQkr4OfM5gfFlPV062_8y1md-DxP1no/edit#heading=h.sqligtccyp7
+
 First challenges: 
 1. Decide for a licence
 2. Decide for a SDK and framework.
